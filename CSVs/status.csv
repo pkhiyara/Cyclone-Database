@@ -1,0 +1,308 @@
+﻿status_id,cyclone_type,origin_coast,category
+1,Low Intensity,Northeast Pacific,0
+2,Tropical Depression,Northeast Pacific,0
+3,Tropical Storm,Northeast Pacific,0
+4,Hurricane,Northeast Pacific,4
+5,Hurricane,Northeast Pacific,4
+6,Hurricane,Northeast Pacific,2
+7,Tropical Storm,Northeast Pacific,0
+8,Tropical Depression,Northeast Pacific,0
+9,Low Intensity,Northeast Pacific,0
+10,Low Intensity,Northeast Pacific,0
+11,Tropical Storm,Northeast Pacific,0
+12,Tropical Depression,Northeast Pacific,0
+13,Tropical Depression,Northeast Pacific,0
+14,Tropical Storm,Northeast Pacific,0
+15,Hurricane,Northeast Pacific,1
+16,Hurricane,Northeast Pacific,4
+17,Hurricane,Northeast Pacific,2
+18,Tropical Storm,Northeast Pacific,0
+19,Low Intensity,Northeast Pacific,0
+20,Low Intensity,Northeast Pacific,0
+21,Low Intensity,Northeast Pacific,0
+22,Low Intensity,Northeast Pacific,0
+23,Low Intensity,Northeast Pacific,0
+24,Tropical Depression,Northeast Pacific,0
+25,Tropical Depression,Northeast Pacific,0
+26,Tropical Storm,Northeast Pacific,0
+27,Tropical Storm,Northeast Pacific,0
+28,Tropical Storm,Northeast Pacific,0
+29,Tropical Storm,Northeast Pacific,0
+30,Tropical Storm,Northeast Pacific,0
+31,Low Intensity,Northeast Pacific,0
+32,Low Intensity,Northeast Pacific,0
+33,Low Intensity,Northeast Pacific,0
+34,Low Intensity,Northeast Pacific,0
+35,Low Intensity,Northeast Pacific,0
+36,Tropical Storm,Northeast Pacific,0
+37,Tropical Storm,Northeast Pacific,0
+38,Low Intensity,Northeast Pacific,0
+39,Low Intensity,Northeast Pacific,0
+40,Tropical Depression,Northeast Pacific,0
+41,Tropical Storm,Northeast Pacific,0
+42,Tropical Depression,Northeast Pacific,0
+43,Low Intensity,North Central Pacific,0
+44,Tropical Storm,North Central Pacific,0
+45,Low Intensity,North Central Pacific,0
+46,Low Intensity,Northeast Pacific,0
+47,Low Intensity,Northeast Pacific,0
+48,Low Intensity,Northeast Pacific,0
+49,Tropical Storm,Northeast Pacific,0
+50,Tropical Depression,Northeast Pacific,0
+51,Tropical Depression,Northeast Pacific,0
+52,Low Intensity,Northeast Pacific,0
+53,Low Intensity,Northeast Pacific,0
+54,Tropical Storm,Northeast Pacific,0
+55,Tropical Depression,Northeast Pacific,0
+56,Low Intensity,Northeast Pacific,0
+57,Tropical Storm,Northeast Pacific,0
+58,Tropical Depression,Northeast Pacific,0
+59,Tropical Depression,Northeast Pacific,0
+60,Tropical Storm,Northeast Pacific,0
+61,Hurricane,Northeast Pacific,1
+62,Hurricane,Northeast Pacific,5
+63,Hurricane,Northeast Pacific,4
+64,Hurricane,Northeast Pacific,3
+65,Hurricane,Northeast Pacific,1
+66,Tropical Storm,Northeast Pacific,0
+67,Tropical Depression,Northeast Pacific,0
+68,Subtropical Depression,Northeast Pacific,0
+69,Tropical Depression,Northeast Pacific,0
+70,Tropical Storm,Northeast Pacific,0
+71,Tropical Storm,Northeast Pacific,0
+72,Low Intensity,Northeast Pacific,0
+73,Low Intensity,Northeast Pacific,0
+74,Low Intensity,Northeast Pacific,0
+75,Low Intensity,Northeast Pacific,0
+76,Tropical Depression,Northeast Pacific,0
+77,Tropical Storm,Northeast Pacific,0
+78,Hurricane,Northeast Pacific,1
+79,Hurricane,Northeast Pacific,3
+80,Hurricane,Northeast Pacific,4
+81,Hurricane,Northeast Pacific,3
+82,Hurricane,Northeast Pacific,1
+83,Hurricane,Northeast Pacific,1
+84,Tropical Storm,Northeast Pacific,0
+85,Low Intensity,Northeast Pacific,0
+86,Low Intensity,Northeast Pacific,0
+87,Low Intensity,Northeast Pacific,0
+88,Low Intensity,Northeast Pacific,0
+89,Tropical Storm,Northeast Pacific,0
+90,Tropical Storm,Northeast Pacific,0
+91,Hurricane,Northeast Pacific,1
+92,Hurricane,Northeast Pacific,2
+93,Hurricane,Northeast Pacific,3
+94,Hurricane,Northeast Pacific,2
+95,Hurricane,Northeast Pacific,1
+96,Hurricane,Northeast Pacific,1
+97,Tropical Storm,Northeast Pacific,0
+98,Hurricane,Northeast Pacific,1
+99,Tropical Storm,Northeast Pacific,0
+100,Tropical Depression,Northeast Pacific,0
+101,Low Intensity,Northeast Pacific,0
+102,Low Intensity,Northeast Pacific,0
+103,Low Intensity,Northeast Pacific,0
+104,Low Intensity,Northeast Pacific,0
+105,Tropical Storm,Northeast Pacific,0
+106,Tropical Storm,Northeast Pacific,0
+107,Tropical Storm,Northeast Pacific,0
+108,Tropical Storm,Northeast Pacific,0
+109,Tropical Storm,Northeast Pacific,0
+110,Tropical Storm,Northeast Pacific,0
+111,Tropical Storm,Northeast Pacific,0
+112,Tropical Storm,Northeast Pacific,0
+113,Tropical Storm,Northeast Pacific,0
+114,Tropical Storm,Northeast Pacific,0
+115,Hurricane,Northeast Pacific,1
+116,Tropical Storm,Northeast Pacific,0
+117,Tropical Depression,Northeast Pacific,0
+118,Tropical Depression,Northeast Pacific,0
+119,Low Intensity,Northeast Pacific,0
+120,Low Intensity,Northeast Pacific,0
+121,Tropical Depression,Northeast Pacific,0
+122,Tropical Depression,Northeast Pacific,0
+123,Tropical Storm,Northeast Pacific,0
+124,Tropical Storm,Northeast Pacific,0
+125,Hurricane,Northeast Pacific,1
+126,Tropical Storm,Northeast Pacific,0
+127,Tropical Storm,Northeast Pacific,0
+128,Low Intensity,Northeast Pacific,0
+129,Low Intensity,Northeast Pacific,0
+130,Low Intensity,Northeast Pacific,0
+131,Low Intensity,Northeast Pacific,0
+132,Low Intensity,Northeast Pacific,0
+133,Tropical Storm,Northeast Pacific,0
+134,Hurricane,Northeast Pacific,1
+135,Hurricane,Northeast Pacific,4
+136,Hurricane,Northeast Pacific,4
+137,Hurricane,Northeast Pacific,2
+138,Hurricane,Northeast Pacific,1
+139,Tropical Storm,Northeast Pacific,0
+140,Low Intensity,Northeast Pacific,0
+141,Low Intensity,Northeast Pacific,0
+142,Low Intensity,Northeast Pacific,0
+143,Low Intensity,Northeast Pacific,0
+144,Low Intensity,Northeast Pacific,0
+145,Tropical Storm,Northeast Pacific,0
+146,Tropical Storm,Northeast Pacific,0
+147,Hurricane,Northeast Pacific,1
+148,Hurricane,Northeast Pacific,1
+149,Hurricane,Northeast Pacific,3
+150,Tropical Storm,Northeast Pacific,0
+151,Low Intensity,Northeast Pacific,0
+152,Low Intensity,Northeast Pacific,0
+153,Low Intensity,Northeast Pacific,0
+154,Low Intensity,Northeast Pacific,0
+155,Low Intensity,Northeast Pacific,0
+156,Tropical Storm,Northeast Pacific,0
+157,Tropical Storm,Northeast Pacific,0
+158,Tropical Storm,Northeast Pacific,0
+159,Hurricane,Northeast Pacific,1
+160,Hurricane,Northeast Pacific,4
+161,Hurricane,Northeast Pacific,2
+162,Tropical Storm,Northeast Pacific,0
+163,Tropical Storm,Northeast Pacific,0
+164,Tropical Depression,Northeast Pacific,0
+165,Low Intensity,Northeast Pacific,0
+166,Tropical Depression,Northeast Pacific,0
+167,Tropical Depression,Northeast Pacific,0
+168,Tropical Depression,Northeast Pacific,0
+169,Tropical Depression,Northeast Pacific,0
+170,Low Intensity,Northeast Pacific,0
+171,Low Intensity,Northeast Pacific,0
+172,Tropical Storm,Northeast Pacific,0
+173,Tropical Storm,Northeast Pacific,0
+174,Hurricane,Northeast Pacific,1
+175,Tropical Storm,Northeast Pacific,0
+176,Tropical Storm,Northeast Pacific,0
+177,Tropical Storm,Northeast Pacific,0
+178,Low Intensity,Northeast Pacific,0
+179,Low Intensity,Northeast Pacific,0
+180,Low Intensity,Northeast Pacific,0
+181,Low Intensity,Northeast Pacific,0
+182,Low Intensity,Northeast Pacific,0
+183,Tropical Depression,Northeast Pacific,0
+184,Tropical Storm,Northeast Pacific,0
+185,Tropical Storm,Northeast Pacific,0
+186,Tropical Storm,Northeast Pacific,0
+187,Hurricane,Northeast Pacific,1
+188,Tropical Storm,Northeast Pacific,0
+189,Low Intensity,Northeast Pacific,0
+190,Low Intensity,Northeast Pacific,0
+191,Low Intensity,Northeast Pacific,0
+192,Low Intensity,Northeast Pacific,0
+193,Low Intensity,Northeast Pacific,0
+194,Low Intensity,Northeast Pacific,0
+195,Tropical Storm,Northeast Pacific,0
+196,Tropical Storm,Northeast Pacific,0
+197,Hurricane,Northeast Pacific,2
+198,Hurricane,Northeast Pacific,2
+199,Tropical Storm,Northeast Pacific,0
+200,Tropical Storm,Northeast Pacific,0
+201,Low Intensity,Northeast Pacific,0
+202,Low Intensity,Northeast Pacific,0
+203,Low Intensity,North Central Pacific,0
+204,Tropical Storm,North Central Pacific,0
+205,Tropical Storm,North Central Pacific,0
+206,Tropical Storm,North Central Pacific,0
+207,Tropical Storm,North Central Pacific,0
+208,Hurricane,North Central Pacific,1
+209,Hurricane,North Central Pacific,1
+210,Tropical Storm,North Central Pacific,0
+211,Tropical Storm,North Central Pacific,0
+212,Tropical Storm,North Central Pacific,0
+213,Tropical Storm,North Central Pacific,0
+214,Tropical Storm,North Central Pacific,0
+215,Hurricane,North Central Pacific,1
+216,Extratropical,North Central Pacific,0
+217,Tropical Depression,Northeast Pacific,0
+218,Tropical Storm,Northeast Pacific,0
+219,Tropical Depression,Northeast Pacific,0
+220,Low Intensity,Northeast Pacific,0
+221,Tropical Depression,Northeast Pacific,0
+222,Tropical Storm,Northeast Pacific,0
+223,Tropical Storm,Northeast Pacific,0
+224,Hurricane,Northeast Pacific,1
+225,Hurricane,Northeast Pacific,2
+226,Hurricane,Northeast Pacific,2
+227,Tropical Depression,Northeast Pacific,0
+228,Low Intensity,Atlantic,0
+229,Low Intensity,Atlantic,0
+230,Low Intensity,Atlantic,0
+231,Tropical Storm,Atlantic,0
+232,Tropical Storm,Atlantic,0
+233,Hurricane,Atlantic,1
+234,Hurricane,Atlantic,1
+235,Extratropical,Atlantic,0
+236,Extratropical,Atlantic,0
+237,Extratropical,Atlantic,0
+238,Extratropical,Atlantic,0
+239,Extratropical,Atlantic,0
+240,Low Intensity,Atlantic,0
+241,Low Intensity,Atlantic,0
+242,Tropical Depression,Atlantic,0
+243,Tropical Depression,Atlantic,0
+244,Tropical Depression,Atlantic,0
+245,Low Intensity,Atlantic,0
+246,Low Intensity,Atlantic,0
+247,Low Intensity,Atlantic,0
+248,Tropical Storm,Atlantic,0
+249,Tropical Storm,Atlantic,0
+250,Tropical Storm,Atlantic,0
+251,Hurricane,Atlantic,1
+252,Tropical Storm,Atlantic,0
+253,Tropical Storm,Atlantic,0
+254,Extratropical,Atlantic,0
+255,Extratropical,Atlantic,0
+256,Extratropical,Atlantic,0
+257,Tropical Depression,Atlantic,0
+258,Tropical Storm,Atlantic,0
+259,Tropical Storm,Atlantic,0
+260,Hurricane,Atlantic,1
+261,Hurricane,Atlantic,1
+262,Hurricane,Atlantic,1
+263,Extratropical,Atlantic,0
+264,Extratropical,Atlantic,0
+265,Extratropical,Atlantic,0
+266,Extratropical,Atlantic,0
+267,Extratropical,Atlantic,0
+268,Low Intensity,Atlantic,0
+269,Tropical Storm,Atlantic,0
+270,Low Intensity,Atlantic,0
+271,Low Intensity,Atlantic,0
+272,Low Intensity,Atlantic,0
+273,Tropical Depression,Atlantic,0
+274,Tropical Storm,Atlantic,0
+275,Tropical Storm,Atlantic,0
+276,Hurricane,Atlantic,1
+277,Hurricane,Atlantic,2
+278,Hurricane,Atlantic,3
+279,Hurricane,Atlantic,1
+280,Hurricane,Atlantic,1
+281,Tropical Storm,Atlantic,0
+282,Low Intensity,Atlantic,0
+283,Low Intensity,Atlantic,0
+284,Low Intensity,Atlantic,0
+285,Subtropical Storm,Atlantic,0
+286,Tropical Storm,Atlantic,0
+287,Hurricane,Atlantic,1
+288,Tropical Storm,Atlantic,0
+289,Low Intensity,Atlantic,0
+290,Tropical Storm,Atlantic,0
+291,Hurricane,Atlantic,1
+292,Hurricane,Atlantic,2
+293,Hurricane,Atlantic,4
+294,Hurricane,Atlantic,4
+295,Hurricane,Atlantic,3
+296,Hurricane,Atlantic,2
+297,Hurricane,Atlantic,1
+298,Extratropical,Atlantic,0
+299,Low Intensity,Atlantic,0
+300,Tropical Depression,Atlantic,0
+301,Low Intensity,Atlantic,0
+302,Low Intensity,Atlantic,0
+303,Disturbance,Atlantic,0
+304,Low Intensity,Atlantic,0
+305,Tropical Storm,Atlantic,0
+306,Low Intensity,Atlantic,0
+307,Low Intensity,Atlantic,0
